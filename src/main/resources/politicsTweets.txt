@@ -1,0 +1,109 @@
+% Tweet data
+% This example was copied from Witten and Frank's data mining book
+
+@relation category
+
+@attribute tweet string
+@attribute politics {yes, no}
+
+@data
+'breaking find trump reach number delegate need clinch republican nomination president', yes
+'trump break law politics gop not behave like functional political party', yes
+'video explain find delegate put trump top', yes
+'trump always highly respected voice politics need kind think #trump via', yes
+'congress can revive rise electoral politics go back ideological politics gandhi nehru patel azad', yes
+'feminist not mean like woman agree politics will support woman break patriarchy', yes
+'put politics policy dangerous unacceptable extremist south carolina just', yes
+'congress fail act emergency funding protect american #zika', yes
+'must drive politics despair offer vision britain europe agree', yes
+'# 2yearsofmodus bjp ram madhav speak student politics campus right organisation', yes
+'reject politics fear build new europe build interest majority', yes
+'opposition leader bill shorten comfort senator nova peris speak departure politics', yes
+'manafort not low level aide trump campaign manager appear keenest grasp politics work', yes
+'hero obama blocks sale sacred apache land foreign mining firm universe politics', yes
+'not dave campaign leave claim best friend politics steve hilton #leaveeu', yes
+'election number go cnn politics app', yes
+'one penalty refuse participate politics end govern inferior plato', yes
+'current government technology gao find pentagon still use floppy', yes
+'obama visit hiroshima speak volume presidency state politics asia', yes
+'ex-pm stephen harper set resign seat next fall begin life politics', yes
+'stephen harper try year destroy social fabric canada leave politics make fortune', yes
+'will jeremy corbyn bernie sanders u.k. reshape nation politics lead party irrelevance', yes
+'year nigel farage spend politics never outline cogent economic plan britain outside eu #incrowd', yes
+'china official news agency say taiwan new president extreme politics single', yes
+'breaking clinton win democratic primary washington race call 11:24 p.m. edt #election #apracecall', yes
+'europe recent referendum reflect alienation politics anger govern', yes
+'bernie sanders campaign ask kentucky official review vote county', yes
+'#trump plan take environmental regulation boost oil gas sector think smart politics', yes
+'new uk #politics #crowdfund campaign lexit movie left wing case brexit', yes
+'#politics former greek finance minister swiss vote yes basic income', yes
+'hillary clinton donald trump urgent threat rights', no
+'eu referendum jean-claude juncker aide order britons vote boris johnson politics news daily', yes
+'politics obama every gesture will scrutinize hiroshima visit every gesture every word utter', yes
+'politics abe likely announce monday whether raise sale tax prime minister shinzo abe will likely', yes
+'political liar destroy democracy brexit george osborne art post-factual politics', yes
+'kentucky complete democratic primary recanvass #politics #news', yes
+'challenge face hillary clinton general-election campaign donald trump', yes
+'tanzanian nickname new president bulldozer government gesture', yes
+'israel defence ministry familiar face wheel safe pair hand', yes
+'donald trump look capitalise secretary clinton e-mail misstep', yes
+'british departure eu costly world bank', yes
+'voting wrong america electoral law recipe chaos', yes
+'britain chancellor right say #brexit spark recession join debate live', yes
+'past time world get serious north korea nuclear ambition', yes
+'next year election approach can kenya government convince voter honesty', yes
+'mississippi want 12th state sue obama administration bathroom guidance', yes
+'big guards-owned company may lose iran economy politics shift via #irgc', yes
+'increasingly vocal hispanic minority speak favor trump resentment suspicion friend family', yes
+'house reverse course lgbt rights approve policy bar discrimination federal contractor', yes
+'video texas fight obama administration order allow transgender student use bathroom choice', yes
+'today grandparents 65th wedding anniversary throw first pitch deadlift good day', no
+'add space space watch beam module attach tomorrow 5:30 et', no
+'donate hrc chance win ticket nyc show enter #nohateinmystate', no
+'make ray marcher 3.5 kb html page ie seem dislike', no
+'be #retail professional #ranchocucamonga ca check #job #hiring #careerarc', no
+'mail package-arrive tomorrow saw cat clock ebay tell keep change mind profit margin', no
+'mmm oh baby toe look succulent yummy wuld luv lick suck toe wuld lick honey toe', no
+'will conclude emoticon intend convey say bad true thing', no
+'also better-connected network bike lane go long way toward make non-issue', no
+'healthy eating california trail mix butter backpack von #shopping #healthy', no
+'ideal temperature honestly not even understand human being suppose live climate', no
+'see latest #westhollywood ca #job click apply retail personal banker #banking #hiring', no
+'creator dilbert really say can kill website not like kid ca not tell anymore', no
+'really go like family size bag nacho cheese doritos right now #craving #myweakness', no
+'hi anna want send this-bravo ask we submit sketch wedding dress vincent', no
+'retard worried immigrant steal job automation robot go put unemployment line', no
+'keep get loot box soldier stuff be go use #blizzard #overwatch #xboxone', no
+'yummy lunch different location yes mom eat stop worry', no
+'dont think would anywhere without group chat full homework meme', no
+'also can just say third row please not reach hold barricade tell hurt dig deeper thnx', no
+'life one day life today jeff foster -lrb- painting susan farrell paintings -rrb- los', no
+'offer 25.00 gift certificate best buy day inconvenience best buy best service gift certificate worthless', no
+'lucky be not break boy get soundcloud go save luck', no
+'day dream work alex be give month work actually will see new year call even', no
+'harness hate ride wave success #badinspirationalquotes', no
+'happy tweet take account event day mean take heart', no
+'would rather either fascist racist misogynist repubs will offer', no
+'finish school already feel proud fuck now finish first year college course follow semester', no
+'gas station handle business older lady approach ask help', no
+'san diego trend now captain america #rednoseday #thursdaythoughts #bernietrumpdebate #nationalwineday', no
+'would really like know be see donald trump write please give look', no
+'space mountain lunch hr suit tie know roll #bestbizlunchever', no
+'attention anyone raymond temple let take picture graduation today', no
+'learn #togetherhood strengthen volunteer impact #becausey', no
+'can recommend anyone #job polymer post-doc researcher #irvine ca #generalscience #hiring', no
+'dollar leave ticket first outing probably require chip money ugh', no
+'brother mad wear graduation cap say look like helicopter hat', no
+'chick sit next plane paint nail really wan na #thefuckouttahere', no
+'husband die vietnam major usmc leave small child start unexpected new life #tellusatoday', no
+'lord bless incredible opportunity forever thankful', no
+'take charge education inquiry can report generate school see amount money donate year', no
+'would rather bed bowl cereal orange juice work serve yogurt', no
+'yes almost do super center just big one bakersfield like 30more min go', no
+'eating salad lunch probably worst life choice ever make im still hungry', no
+'people not like style music not like soft make music aggressive cause easy fun', no
+'year apple genius bar will run super competent toddler', no
+'someone tell today handwriting beautiful really feelin typa way', no
+'hate student louder professor like jesus fuck christ let professor teach', no
+'have chipotle twice today chick wheelchair mine just spin around', no
+'fan base support support back not treat like trash not talk', no

@@ -1,0 +1,109 @@
+% Tweet data
+% This example was copied from Witten and Frank's data mining book
+
+@relation category
+
+@attribute tweet string
+@attribute music {yes, no}
+
+@data
+'skateboard video game soundtrack easily identifiable always weird mix heavy metal alternative music old school hip-hop', yes
+'spotify reportedly talk hire lady gaga former manager take apple music', yes
+'nick jonas release music video song bacon exclusively tidal', yes
+'memorable moment music-july 1937-gene krupa record legendary sing sing sing', yes
+'just like fire also become p!nk 15th top hit billboard hot congratulation', yes
+'ariana grande climb three spot # hot week reach new peak', yes
+'can imagine release folk infuse pop music', yes
+'voting song summer end tomorrow make sure vote use hashtag #mplikeiwould', yes
+'can tell we member 5sos sing lyric promise be', yes
+'iron maiden release energetic live music video death glory maiden glory', yes
+'ferocious live set last night finish amazing festival #primaverasound', yes
+'freddie gibbs 9:20 tonight performance cancel due unforeseen circumstance beyond festival control #primaverasound', yes
+'big news new song new album help crush goal gang #intothegreatunknown', yes
+'#labicicleta latin song us radio stations week keep request local station', yes
+'june 6th record first song ever abbey road studio thanks revolution', yes
+'neptones chapter still hold strong itunes let see can reach # top electronic album', yes
+'experience music #tuckeverlasting release original broadway cast recording', yes
+'minimal promo campaign video not even yet broccoli number itunes hip-hop/rap chart', yes
+'pre-order new single 4th july right itunes folk put 79p cent good use tonight', yes
+'get ready tonight performance best hit watch tonight 7pm et #ihearttinashe', yes
+'check favorite song video right now stroke paul simon', yes
+'see iggy pop american valhalla video feature boxing match footage model ruth bell', yes
+'pandora partners music reports give music makers greater transparency', yes
+'legendary music group abba reunite perform together first time year', yes
+'curtain call hit eminem longest chart hip-hop album billboard total week', yes
+'year ago today christina aguilera release grammy award win single ai not man', yes
+'lemonade beyoncé now spend day atop itunes worldwide album solo act since', yes
+'bear die lana del rey longest chart alternative album billboard history', yes
+'justin bieber turn back industry norm sake happiness', yes
+'photo video last night rumor surprise kanye show nyc give anxiety', yes
+'lighting lagos star 1970s nigerian rock music picture', yes
+'success drake view adele show music industry divide technology past future', yes
+'apple music finally decide explain product work', yes
+'interview dumbfoundead explain lyric hilarious anti-whitewashing music video', yes
+'galantis reveal simple step find success dance music world', yes
+'roster established heavyweight newcomer label remix dancehall music', yes
+'turn david bowie specifically request music use #peakyblinders season emotional', yes
+'prince break beatle billboard record month death prince change face music', yes
+'british force use bollywood music new psychological warfare weapon isis', yes
+'love music like will excite know day ambassador #bbcmusicday tomorrow', yes
+'first time four decade metropolitan opera new music director', yes
+'law-enforcement official tell ap test show music superstar prince die opioid overdose', yes
+'artist need check new york biggest music festival', yes
+'meet dj turn career wall street make music', yes
+'video us performing #bbcmusicday cover bangle manic monday record james skelly', yes
+'new #kinkyboots music video weigh transgender bathroom rights', yes
+'lightning strike rock music fan freak thunderstorm hit german festival', yes
+'five-year project focus chamber music budget 1.5 million fund part carnegie hall', yes
+'biggest nyc music festival cancelled weather people seriously bummed', yes
+'margaret cho new music video celebrate asian womanhood', yes
+'love friend michigan well one worth share love anyway buy stuff iggy', no
+'pat can please provide list legislative voting do regard veteran', no
+'sit lawn jaguar dealership watch erin question existentialism amazing thing ever witness', no
+'suppose start unpack move everything room remember titans just start', no
+'begin run be outta shape block lung now know be dead', no
+'old man drunk crash hummer torrance pd give ride home #whiteprivilege', no
+'shane patel name south pacific premier ambassador second year row', no
+'surprise take disneyland last minute love mom disneyland', no
+'way midwest bronyfest will please know now tornado just lot rain', no
+'always boss whether like can see trouble year follow direction', no
+'feel like heart rip chest stomp feel empty not know say really', no
+'thing help talk nice able get thing brain sometimes', no
+'rn orthopedic unit glendale adventist -lrb- #glendale ca -rrb- #nursing #job #jobs #hiring #careerarc', no
+'ready long weekend anyone anything fun will just relax soak', no
+'laptop decide make executive decision upgrade windows lovely', no
+'baby come world onto teenager hope never go type bully ugh', no
+'happy birthday baby boiii miss hit whip extra hard today', no
+'long weekend use code md30 get sum summer rockin goods', no
+'another collection #artdeco fan design see else new #artworkoftheday', no
+'dad always hand phone speak family member have never meet', no
+'life pretty damn good right now life good nothing else really matter', no
+'game not even start be already cry boyfriend last game', no
+'turn face time camera face ally just straight start laugh', no
+'racist chinese detergent commercial will leave speechless -lsb- video -rsb- via #china #playofffinal #justwrong', no
+'hate share secret go starbucks ralph rise theres never line take seconds make drink', no
+'pee wee herman child house have wonder twenty year', no
+'hope get helm x man movie rights can show do dont even need read comic watch t.v. show tf', no
+'add coffee hazelnut creamer smoothie be literally heaven best thing have ever make', no
+'professor say three point choose intense study really mean none result make sense', no
+'procter gamble #sales #job senior mechanical warewash technician training -lrb- #losangeles ca -rrb- #veterans #jobs', no
+'ha racist left call not leg stand benign overused word-salad top', no
+'good thing often hard long feel best deep inside unseen', no
+'spend memorial day weekend # 801hillsaturday guestlist table reservations', no
+'be going go see alice xmen god bless geeky disney fanatic family', no
+'dream little interesting lately get ta take less melatonin bed', no
+'newcomer fear factor just throw stuff friend way thank', no
+'jake bronder sexiest white man alive rn jake see sorry sleep many year gim call ever la', no
+'ah handmade means sew whole thing hand homemade mean usually use machine be get term', no
+'ask mom take somewhere says cousin ask say yes like actual fuck', no
+'people need bring other self validation like super insecure weird', no
+'not forget america go broke year ago one person get credit clear loan completely foregiven ford', no
+'friend get yell shoulder show westlake guy allow wear shirt naked girl', no
+'trump fraud now presume nominee ppl say promise just suggestion', no
+'stepdad say room smell like shitty weed not even smoke', no
+'happy get favorite treat today best bakery best customer service #vegan #vegantreats', no
+'writer read comment get go allow comment inc rude comment', no
+'five year since diagnosis 3.5 since dialysis be still go strong', no
+'mother lose quadruplet brother think doom blessing horizon universe something else', no
+'due traffic convention center trump rally port san diego shuttle may delay possibly stop closure', no
+'day people ask highlighter be use usually day be just super sweaty', no

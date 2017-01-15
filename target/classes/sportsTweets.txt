@@ -1,0 +1,110 @@
+% Tweet data
+% This example was copied from Witten and Frank's data mining book
+
+@relation category
+
+@attribute tweet string
+@attribute sports {yes, no}
+
+@data
+'salesian baseball win quarterfinal game today win championship', yes
+'walk steal base ground wild pitch bring home first st. michael prep run game tie 1-1 go bottom three', yes
+'two day two match two defeat holder gloucestershire struggle one-day cup', yes
+'team sport like #basketball every time help somebody else help pete carril', yes
+'invent #basketball final get underway learn origin game', yes
+'olympics will not grace nba mvp.steph curry need focus body', yes
+'injure skiing snowboard #ttot #victoria #australia #snow #winter #ski #travel', yes
+'#sport activity may help restore self-esteem rehabilitate vulnerable #trauma', yes
+'like sport book can recommend dirtiest race history richard moore 100m olympic final #sport', yes
+'want play #sport high-level mental demand go beyond talent #plan 2play', yes
+'honestly think have do better atletico keeper madrid go way everytime', yes
+'whatever happen dodger way play baseball play solid fundamental defense', yes
+'cristiano nothing entire game will crown best world', yes
+'ronaldo convert official score #uclfinal 1-1 real madrid win penalty 5-3', yes
+'whatever happen dodger way play baseball play solid fundamental defense', yes
+'absolute worst way lose match yet alone final rival #uclfinal', yes
+'inter milan not make champions league least stadium make final #forzainter', yes
+'mls commercial right now like run single baseball commercial world series be good', yes
+'official pool #rio man #volleyball tournament', yes
+'canadian men #volleyball team member coach father insist play multitude sport young', yes
+'star bear world react first grand slam title read #rg', yes
+'novak djokovic french open victory mark end machine age tennis', yes
+'dangelo russell coach team lakers timeout shanghai sports university past weekend #golakers', yes
+'legendary coach explain mentality world-class distance runner vice world sports wednesday 11pm', yes
+'sick tired stereotype woman sport watch pelt heckler tennis ball', yes
+'sacramento new stadium will technologically advanced sport arena ever build', yes
+'future star world rugby kick #worldrugbyu 20s today live sky sports', yes
+'video ea sports reveal brand new fifa teaser trailer will must play', yes
+'spin move eerily similar escape tactic nc state baseball coach', yes
+'cubs first team win least first game since mariners', yes
+'di maria put argentina board goal give la albiceleste 1-0 lead chile #copaamerica', yes
+'pen not trail actual game time 16 stanley cup finalsj not lead end game', yes
+'pittsburgh win game eric fehr score late 3rd period help penguin take 3-1 series lead', yes
+'highlight wales woman euro qualify hope end 2-0 defeat norway #walnor', yes
+'chris smalling return england 2nd training session today knee strap iced', yes
+'former player say sport teach confident humble #wcws', yes
+'star jim kelly 30th annual celebrity golf classic see', yes
+'#hct call home support inspire historic first hockey champions trophy title', yes
+'four national teamers find success final night competition #arenaproswim #indy', yes
+'wave like problem surf deal it.bringing sf kid sea', yes
+'f1 gossip lewis hamilton water skiing justin bieber present romain grosjean', yes
+'winter sport aquatic archery common sport youth physical disability #nassm', yes
+'thing sound promise go ahead facility change face australian winter sport', yes
+'monaco ayrton senna sweep past niki lauda mclaren en route famous second place finish #onthisday', yes
+'jolyon palmer renault will new chassis #canadiangp monaco crash', yes
+'boxing inspire much finest sport write', yes
+'mixed martial art fighter kimbo slice die age bellator mma president confirm yahoo sports', yes
+'nike sue unknown distance runner inside self-described mafioso sport marketing machine', yes
+'sports update isaiah thomas say will everything can recruit kevin durant', yes
+'muhammad ali culture worship sport violence well culture idolize black', yes
+'want work #longbeach california view latest opening #pharmaceutical #job #jobs #hiring #careerarc', no
+'interest #sales #job near #santafesprings ca great fit #veterans #hiring #careerarc', no
+'debate sanders easy plan destroy america open border bring wages tax kill growth', no
+'yo skin get clearer ass get bigger niggas problem stress free', no
+'yosemite always awe inspire little bit sadness leave valley already', no
+'give thanks lord good mercy endure forever.have great day', no
+'reason be sit shotgun hollywood tour bus time make friend driver guess', no
+'fair enough lewis tasting day able write coherent note', no
+'happy birthday evelyn love miss much hope enjoy day beautiful', no
+'say last summer not summer really want get love face without makeup', no
+'san diego great respect/appreciation mexican neighbor culture trump wall welcome #sdtrumprally', no
+'know trashy first fursuit really want contribute #fursuitfriday', no
+'daenerys targaryen spirit animal another one add favorite herione', no
+'throwup coolest girl alive stellar interview w smile honey diet frozen yogurt still suck', no
+'watch record betamax demand intertune just watch thank later #genius', no
+'need really really good chinese food like right now', no
+'inspire design idea new environmental research center student professor', no
+'boyfriend better pray never make mad jolly rancher one really', no
+'think mashed potato mash foot foot flavor free food divine', no
+'want use new camera already still half roll leave one', no
+'exciting check #beam progress ~ hr later #nasa slow steady win race celebrate win space', no
+'visit phenomenal one miss #grandma #memorialday #familyfirst #family calvary', no
+'unless hoe shit wont think really hoe will call hoe that just fuck around', no
+'saturday lunch do proper spot texas double cheeseburger', no
+'set mind kill next step look fierce enough make guy guy turn sexuality hope still power', no
+'xbox one power supply break can not play rocket league', no
+'memorial day weekend one two holiday weekend acceptable eat nothing bbq chicken drink beer three day straight', no
+'sea move image greater one bring replenish fruit image firmament second good midst', no
+'passenger say gun day play ignorant reason deliberately misquote', no
+'soooo exhaust go grad night w sore throat now fever', no
+'poolside nice quiet couple folk get tan laptop bear tan #amwriting', no
+'huge factor climate change cause earthquake etc. world issue', no
+'feel like wall fuck exactly would sound like two wall fuck great job song', no
+'nice pivot still wrong thing fracking something anyone care environment', no
+'world see one way look mirror see whole nother person', no
+'x-men worth see mean great movie day future past first class better amazing moment though', no
+'depend severity #depression severe always require med moderate often mild almost never', no
+'today work organic garden excited start family project amazingly', no
+'nurse educators advicates speak nurses educate advocate patient', no
+'shot keeper leave yet dive right every single time get hint', no
+'not mystique inject guard excess iron magneto escape be talk natural iron body', no
+'make commitment year be let go dream easily #bringbacknashville', no
+'morning see revelation possibility #trumporganization like #deukmajian #calottery restrict gun hillary', no
+'one person really want will never happen fuck just much fuck', no
+'feel like part issue nobody make content compelling enough ppl will want pay get though', no
+'be #hiring click apply payroll administrator permanent consulting opportunity #accounting #irvine ca', no
+'not understand legal team allow client sign business deal physician begin ed', no
+'study fracking effect environment devastate promote situation', no
+'tech support customer service prove delivery horrible product useless support #awful', no
+'go run morning perfect weather playa vista ca #beach #spring', no
+'corruption must stop delay vote whether public agree corruption unacceptable', no

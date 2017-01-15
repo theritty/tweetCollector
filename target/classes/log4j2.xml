@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You can specify configuration file with -Dlog4j.configurationFile=/home/yunus/Desktop/codebase/log4j2.xml -->
+<Configuration status="DEBUG" monitorInterval="5">
+
+    <Properties>
+        <Property name="log-path">/Users/ozlemcerensahin/Desktop/logs</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="console-log" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %c{1.} - %msg%n"/>
+        </Console>
+        <File name="file-log" fileName="${log-path}/eventdetection.log" immediateFlush="false" append="false">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="warn">
+            <AppenderRef ref="file-log"/>
+        </Root>
+    </Loggers>
+</Configuration>

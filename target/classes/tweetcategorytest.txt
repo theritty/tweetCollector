@@ -1,0 +1,19 @@
+% Tweet data
+% This example was copied from Witten and Frank's data mining book
+
+@relation test_relation
+
+@attribute tweet_text string
+@attribute politics {yes, no}
+
+@data
+'breaking find trump reach number delegate need clinch republican nomination president', ?
+'wake first time long time kind like many hour sunlight ahead coffee need coffee', ?
+'today grandparents 65th wedding anniversary throw first pitch @gosquirrels deadlift good day', ?
+'add space space watch beam module attach @space_station tomorrow 5:30 et', ?
+'donate hrc chance win ticket @springsteen nyc show enter @crowdrise #nohateinmystate', ?
+'president obama visit site us drop first atomic bomb', ?
+'texas passes law permanently ban muslim sharia laws - world news politics', ?
+'right turkey new premier one mission undermine power @firatkozok', ?
+'surprise turkish prime minister-to-be binali yildirim promise legalize de facto system erdogan rule supreme', ?
+'hdp leader speak strip parliamentary immunity one major turkish news channel will broadcast', ?
